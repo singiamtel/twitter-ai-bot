@@ -8,5 +8,5 @@ Currently running on Twitter as @YourRandomFact, hosted on AWS Lambda.
 
 ``` bash
 pip install -r requirements.txt -t ./package
-zip -r pkg.zip package/* lambbda_function.py
+zip -r pkg.zip package/* lambda_function.py
 ```
